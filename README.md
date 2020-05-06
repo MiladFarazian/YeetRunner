@@ -1,6 +1,6 @@
 ## Download & Play YeetRunner
-1. Clone the repo 
-2. Run **FinalProject.jar**
+1. Download **FinalProject.zip**
+2. Double-click **FinalProject.jar** to RUN
 
 ## Controls
 - Mouse click to jump
