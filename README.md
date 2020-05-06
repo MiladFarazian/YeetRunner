@@ -1,5 +1,6 @@
 ## Download & Play YeetRunner
 1. Download **FinalProject.zip**
+2. Extract .zip to local folder
 2. Double-click **FinalProject.jar** to RUN
 
 ## Controls
