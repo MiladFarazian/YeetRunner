@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="gifAnimation">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Images/gifAnimation.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$PROJECT_DIR$/Images/gifAnimation.zip!/" recursive="false" />
+  </library>
+</component>
